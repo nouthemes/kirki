@@ -1,3 +1,13 @@
+- name: Trueshoes 
+  market: ThemeForest
+  url: https://themeforest.net/item/exizt-fashion-woocommerce-wordpress-theme/21225863?ref=nouthemes
+  thumb: https://s3.envato.com/files/244191993/preview.__large_preview.jpg
+
+- name: Trueshoes 
+  market: ThemeForest
+  url: https://themeforest.net/item/trueshoes-responsive-woocommerce-wordpress-theme/20566905?ref=nouthemes
+  thumb: https://s3.envato.com/files/242802513/trueshoes_preview/preview.__large_preview.jpg
+  
 - name: Writeup
   market: ThemeForest
   url: http://alxmedia.se/themes/writeup/
